@@ -1,4 +1,4 @@
-# Generic Repository With .NET Core
+# Generic Repository With .NET Core _(Backend)_
 
 `Purpose`: “Generic Repository for reusable CRUD operations in .NET Core, reducing boilerplate code.”</br>
 `Features`: “Type-safe CRUD, dependency injection, async support, works with any entity (e.g., User, Product).”</br>
